@@ -104,9 +104,4 @@ Molecular Docking Interface
      
       * ***[Ligand Preparation](http://gohom.win/ManualHom/Schrodinger/Schrodinger_2015-2_docs/general/ligand_preparation.pdf)*** – **Process Ligand (Using epik, hydrogens、ioniztion...)** 
 
-***[Schrödinger药物虚拟筛选流程模块](http://www.dxhx.pku.edu.cn/article/2018/1000-8438/20180513.shtml)*** 
-
----
-
-[分子对接软件综述](https://www.sohu.com/a/249757307_100245602)
----
+## [Schrödinger药物虚拟筛选流程模块](http://www.dxhx.pku.edu.cn/article/2018/1000-8438/20180513.shtml) | [分子对接软件综述](https://www.sohu.com/a/249757307_100245602)
